@@ -1,0 +1,430 @@
+[{
+  "_id": {
+    "$oid": "62224408155a046c4deb3254"
+  },
+  "name": "vivek dhaduk",
+  "email": "dhaduk100vivek@gmail.com",
+  "number": "65432nbvcxz",
+  "gender": "male",
+  "age": 21,
+  "panno": "SDFG4532",
+  "password": "123",
+  "image": "http://127.0.0.1:8080/uploads/image-1646412807983-IMG_0001 - Copy.JPG",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646412808035"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669194391213"
+    }
+  },
+  "__v": 2,
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjIyNDQwODE1NWEwNDZjNGRlYjMyNTQiLCJpYXQiOjE2NjkxOTQzOTF9.tgbzQK2qXIDtmyIQMAA_cpnQdfHujiF54BWMw6PZUfU",
+      "_id": {
+        "$oid": "637de297a2e821868418251a"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6223306ff1459cb8d4b3c083"
+  },
+  "name": "priyansi",
+  "email": "dhadukp@gmail.com",
+  "number": "6354653533",
+  "gender": "female",
+  "age": 18,
+  "panno": "ew1233",
+  "password": "123",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646473327921"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646473652963"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6225816136768d9ad4821967"
+  },
+  "name": "vivek dhaduk",
+  "email": "vivekdhaduk76@gmail.com",
+  "number": "9510542252",
+  "gender": "male",
+  "age": 21,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjI1ODE2MTM2NzY4ZDlhZDQ4MjE5NjciLCJpYXQiOjE2NDY2MjUxMjh9.YXh-oeuYdfNglq6VG4-2qexNFFg0Yzy0OCt-2YpcGGA",
+      "_id": {
+        "$oid": "6225816936768d9ad482196b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646625121254"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1646625129004"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "622b3deb2fee883ad42a61c4"
+  },
+  "name": "vivek dhaduk",
+  "email": "dhaduk1000vivek@gmail.com",
+  "number": "9510542252",
+  "gender": "male",
+  "age": 20,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjJiM2RlYjJmZWU4ODNhZDQyYTYxYzQiLCJpYXQiOjE2NDcwMDEwNzR9.NjYFLfAoJlvmRwiou_4vjjkpsAkg3PqngQhHMjkfzEA",
+      "_id": {
+        "$oid": "622b3df22fee883ad42a61c8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647001067296"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647001074729"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62307c030d7ab518600388c5"
+  },
+  "name": "hemashi",
+  "email": "hemupatel1272@gmail.com",
+  "number": "9727802045",
+  "gender": "female",
+  "age": 20,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjMwN2MwMzBkN2FiNTE4NjAwMzg4YzUiLCJpYXQiOjE2NDczNDQ2NTR9.1e4zULpnsabUFvi93GJiuJHbkDpl7KirkKk0Kw5wb3g",
+      "_id": {
+        "$oid": "62307c0e0d7ab518600388c9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647344643470"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647344701759"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62318429bb349f7eeeec11d6"
+  },
+  "name": "priyanshi",
+  "email": "dhadukpriyansi@gmail.com",
+  "number": "6354653533",
+  "gender": "female",
+  "age": 20,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjMxODQyOWJiMzQ5ZjdlZWVlYzExZDYiLCJpYXQiOjE2NDc0MTIzMDV9.XR5QMmY2xM6j8TA-6lyCqYRv1UVelKNcCcRODLdj09E",
+      "_id": {
+        "$oid": "62318451bb349f7eeeec11da"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647412265716"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647412305140"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "623fff25b4e951f055d9cd02"
+  },
+  "name": "krishna",
+  "email": "desai.kishu10@gmail.com",
+  "number": "8787876534",
+  "gender": "female",
+  "age": 21,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjNmZmYyNWI0ZTk1MWYwNTVkOWNkMDIiLCJpYXQiOjE2NDgzNjE0NDB9.Wfvs41X13fXdf1dK1s6jn0YQiR8uDRlYK5X2ilRlL7E",
+      "_id": {
+        "$oid": "623fffe0b4e951f055d9cd0d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648361253798"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648361440425"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6240018eb4e951f055d9cd4b"
+  },
+  "name": "vilasben dhaduk",
+  "email": "caspiry@gmail.com",
+  "number": "9898911016",
+  "gender": "female",
+  "age": 47,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjQwMDE4ZWI0ZTk1MWYwNTVkOWNkNGIiLCJpYXQiOjE2NDgzNjE4ODJ9.GJvKsGvmT_nSlD0lKuiLiAsITEI8PPyLEOHSOX3u_CY",
+      "_id": {
+        "$oid": "6240019ab4e951f055d9cd4f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648361870043"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648361974568"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "625659dcad4b4c1c8a6c47c0"
+  },
+  "name": "isha desai",
+  "email": "ishadesai36934@gmail.com",
+  "number": "8787876534",
+  "gender": "female",
+  "age": 21,
+  "panno": "sdfgh234",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjU2NTlkY2FkNGI0YzFjOGE2YzQ3YzAiLCJpYXQiOjE2NDk4MjYyODF9.g_15pjfPqHr4gqJdBHvsX4ksvkLcEqr634H6sQA-gRg",
+      "_id": {
+        "$oid": "625659e9ad4b4c1c8a6c47c4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649826268811"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650695335753"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62628b3c049638c7d509a87a"
+  },
+  "name": "vilasben dhaduk",
+  "email": "vilasben@gmail.com",
+  "number": "8787876534",
+  "gender": "female",
+  "age": 45,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjYyOGIzYzA0OTYzOGM3ZDUwOWE4N2EiLCJpYXQiOjE2NTA2MjUzNDl9.23r2z6we2CV83CzcCgMfRwQq3zJIr2d7-oSGlFWoTGA",
+      "_id": {
+        "$oid": "62628b45049638c7d509a87e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650625340350"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650625349137"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6263874af9fe943463137885"
+  },
+  "name": "rohan dhanani",
+  "email": "rihan@gmao.com",
+  "number": "8787876534",
+  "gender": "male",
+  "age": 21,
+  "panno": "SDFG4532",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjYzODc0YWY5ZmU5NDM0NjMxMzc4ODUiLCJpYXQiOjE2NTA2ODk4NzR9.BeW0_DkfWJOsClrymrA04R-CcyzAFTqwwGp_WZ6R1Bo",
+      "_id": {
+        "$oid": "62638752f9fe943463137889"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650689866216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650689874406"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62639c60be427a7b1dcb5720"
+  },
+  "name": "isha desai",
+  "email": "ishadesai3934@gmail.com",
+  "number": "1233215212",
+  "gender": "female",
+  "age": 21,
+  "panno": "sdfghjk",
+  "password": "123",
+  "tokens": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650695264863"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650695264863"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eb9469fd761630c7f7d2a0"
+  },
+  "name": "gautam",
+  "email": "gb949308@gmail.com",
+  "number": "8787876534",
+  "gender": "male",
+  "age": 21,
+  "panno": "dyhbv23",
+  "password": "123",
+  "tokens": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659606121457"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659606121457"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eba2b1c251da4c277d6d22"
+  },
+  "name": "jay",
+  "email": "jay@gmail.com",
+  "number": "8787876534",
+  "gender": "male",
+  "age": 21,
+  "panno": "vcxz",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmViYTJiMWMyNTFkYTRjMjc3ZDZkMjIiLCJpYXQiOjE2NTk2MDk3OTF9.s4YUV058YKm7sWZknU0s6MmBO3_Pz0muBEI58Bw_WvY",
+      "_id": {
+        "$oid": "62eba2bfc251da4c277d6d26"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659609777851"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659609791393"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "637de4daa2e8218684182590"
+  },
+  "name": "tejas",
+  "email": "tejas@gmail.com",
+  "number": "9510542252",
+  "gender": "male",
+  "age": 21,
+  "panno": "dyhbv23",
+  "password": "123",
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzdkZTRkYWEyZTgyMTg2ODQxODI1OTAiLCJpYXQiOjE2NjkxOTQ5NzV9.gObezF1RzHEfjYRCCvv99-DPrrUM3johybBPS5omDQA",
+      "_id": {
+        "$oid": "637de4dfa2e8218684182594"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669194970532"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669194975870"
+    }
+  },
+  "__v": 1
+}]

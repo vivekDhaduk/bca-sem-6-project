@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "6221cfcaafc8e37246b060a5"
+  },
+  "gender": "dddd",
+  "fullname": "dddddddd",
+  "dateofbirth": "13/05/2002",
+  "age": "25",
+  "city": "surat",
+  "healthproblem": "heart patint",
+  "annualincome": "5555555555555",
+  "date": {
+    "$date": {
+      "$numberLong": "1646383050567"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6221d012afc8e37246b060a7"
+  },
+  "gender": "dffvhngnfd",
+  "fullname": "vivek dhaduk",
+  "dateofbirth": "13/05/2002",
+  "age": "2",
+  "city": ",njkhgcfg",
+  "healthproblem": "no",
+  "annualincome": "20000000000",
+  "date": {
+    "$date": {
+      "$numberLong": "1646383122617"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6221d029afc8e37246b060a9"
+  },
+  "gender": "male",
+  "fullname": "rohan",
+  "dateofbirth": "13/05/2002",
+  "age": "30",
+  "city": "mumbai",
+  "healthproblem": "no",
+  "annualincome": "2000000",
+  "date": {
+    "$date": {
+      "$numberLong": "1646383145162"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6221d537e92a3ee77640dfe7"
+  },
+  "gender": "femakle",
+  "fullname": "trunal bhai ",
+  "dateofbirth": "13/05/2002",
+  "age": "21",
+  "city": "delhi",
+  "healthproblem": "heart patint",
+  "annualincome": "2000000",
+  "date": {
+    "$date": {
+      "$numberLong": "1646384439284"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6221d84637421574c55c2eba"
+  },
+  "gender": "male",
+  "fullname": "trunal dhi",
+  "dateofbirth": "13/05/2002",
+  "age": "21",
+  "city": "kolkata",
+  "healthproblem": "no",
+  "annualincome": "200000000000",
+  "date": {
+    "$date": {
+      "$numberLong": "1646385222544"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623301160ba767caf1908180"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "dateofbirth": "13/05/2002",
+  "age": "30",
+  "city": "surat",
+  "healthproblem": "heart patint",
+  "annualincome": "430000",
+  "date": {
+    "$date": {
+      "$numberLong": "1647509782455"
+    }
+  },
+  "__v": 0
+}]

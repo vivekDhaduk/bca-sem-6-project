@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "624d87fd8bb868d0f570493a"
+  },
+  "name": "vivek dhaduk",
+  "category": "Life",
+  "number": "9510542252",
+  "gender": "male",
+  "discription": "Our life insurance advisor help you to find best term life plan.",
+  "password": "123",
+  "image": "http://127.0.0.1:8080/uploads/image-1649248253179-team-image-4-646x680.jpg",
+  "date": {
+    "$date": {
+      "$numberLong": "1649248253184"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649248253188"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649252009416"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d88468bb868d0f570493d"
+  },
+  "name": "isha desai",
+  "category": "Car",
+  "number": "9106385721",
+  "gender": "female",
+  "discription": "Help you to find the best insurence for your car",
+  "password": "123",
+  "image": "http://127.0.0.1:8080/uploads/image-1649248326890-team-image-3-646x680.jpg",
+  "date": {
+    "$date": {
+      "$numberLong": "1649248326905"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1649248326907"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1649252235587"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637de495006c922b2996f618"
+  },
+  "name": "chotubhai",
+  "category": "slah",
+  "number": "2356789876",
+  "gender": "male",
+  "discription": "wre",
+  "password": "123",
+  "image": "http://127.0.0.1:8080/uploads/image-1669194901293-images.jpg",
+  "date": {
+    "$date": {
+      "$numberLong": "1669194901307"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669194901319"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669194901319"
+    }
+  },
+  "__v": 0
+}]

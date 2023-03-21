@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "622589be23faa5ebaf9af5a2"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "55",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "12",
+  "nominee": "father",
+  "date": {
+    "$date": {
+      "$numberLong": "1646627262040"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62307cd90d7ab518600388e1"
+  },
+  "gender": "female",
+  "fullname": "hemanshi",
+  "age": "19",
+  "dateofbirth": "12/7/2002",
+  "city": "surat",
+  "annualincome": "1000",
+  "nominee": "health",
+  "date": {
+    "$date": {
+      "$numberLong": "1647344857081"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624ad742235aa195b37d430a"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "2000000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649071938260"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624ad931235aa195b37d4321"
+  },
+  "gender": "male",
+  "fullname": "parnay dhaduk",
+  "age": "16",
+  "dateofbirth": "12/7/2002",
+  "city": "surat",
+  "annualincome": "440000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649072433851"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624adea9235aa195b37d4350"
+  },
+  "gender": "male",
+  "fullname": "trunal bhai ",
+  "age": "21",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "450000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649073833295"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624ae069235aa195b37d4386"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "440000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649074281101"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d31f17150acbdf23f4883"
+  },
+  "gender": "male",
+  "fullname": "dharshan",
+  "age": "50",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "20000000000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649226225674"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d34087150acbdf23f48ba"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "440000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649226760266"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d35b97150acbdf23f493d"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "430000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649227193038"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d3bc77150acbdf23f4960"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "450000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649228743786"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d45077150acbdf23f49cf"
+  },
+  "gender": "dddd",
+  "fullname": "vivek dhaduk",
+  "age": "30",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "430000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649231111427"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d7c86ec1c2e1d5a4e26e0"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "13/05/2002",
+  "city": "surat",
+  "annualincome": "20000000000",
+  "nominee": "health",
+  "date": {
+    "$date": {
+      "$numberLong": "1649245318317"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62565aa0ad4b4c1c8a6c47d8"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "",
+  "city": "surat",
+  "annualincome": "440000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1649826464618"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62628b64049638c7d509a884"
+  },
+  "gender": "female",
+  "fullname": "vilas ben ",
+  "age": "45",
+  "dateofbirth": "",
+  "city": "surat",
+  "annualincome": "450000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1650625380939"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62639ce3be427a7b1dcb5733"
+  },
+  "gender": "male",
+  "fullname": "vivek dhaduk",
+  "age": "21",
+  "dateofbirth": "",
+  "city": "surat",
+  "annualincome": "440000",
+  "nominee": "self",
+  "date": {
+    "$date": {
+      "$numberLong": "1650695395319"
+    }
+  },
+  "__v": 0
+}]

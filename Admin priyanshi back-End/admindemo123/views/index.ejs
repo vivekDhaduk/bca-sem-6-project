@@ -1,0 +1,437 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
+  <meta name="author" content="Creative Tim">
+  <title>insurance mangment system</title>
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/img/brand/favicon.png" type="image/png">
+  <!-- Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
+  <!-- Icons -->
+  <link rel="stylesheet" href="/assets/vendor/nucleo/css/nucleo.css" type="text/css">
+  <link rel="stylesheet" href="/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css" type="text/css">
+  <!-- Page plugins -->
+  <!-- Argon CSS -->
+  <link rel="stylesheet" href="/assets/css/argon.css?v=1.2.0" type="text/css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+
+<body>
+  <!-- Sidenav -->
+  <%- include('sidebar'); -%>
+  <!-- Main content -->
+  <div class="main-content" id="panel" >
+    <!-- Topnav -->
+    <%- include('top'); -%>
+   
+          <!-- Card stats -->
+          <div class="container-fluid mt--">
+        <div class="row" >
+          <div class="col-xl-3 col-md-6">
+            <div class="card card-stats">
+              <!-- Card body -->
+               <div class="card-body">
+                <div class="row">
+                  <div class="col">
+                    <h5 class="card-title text-uppercase text-muted mb-4">total user</h5>
+                    <span class="h2 font-weight-bold mb-0">  <%= data.usercount %> </span>
+                  </div>
+                  <div class="col-auto">
+                    <div class="icon icon-shape bg-gradient-orange text-white rounded-circle shadow">
+                      <i class="ni ni-chart-pie-35"></i>
+                    </div>
+                  </div>
+                </div>
+                <p class="mt-3 mb-0 text-sm">
+                  <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> </span>
+                  <span class="text-nowrap"></span>
+                </p>
+              </div> 
+            </div>
+          </div>
+           <div class="col-xl-3 col-md-6">
+              <div class="card card-stats">
+                <!-- Card body -->
+                 <div class="card-body">
+                  <div class="row">
+                    <div class="col">
+                      <h5 class="card-title text-uppercase text-muted mb-0">total bike policy</h5>
+                      <span class="h2 font-weight-bold mb-0">  <%= data.bikecount %> </span>
+                    </div>
+                    <div class="col-auto">
+                      <div class="icon icon-shape bg-gradient-orange text-white rounded-circle shadow">
+                        <i class="ni ni-chart-pie-35"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-3 mb-0 text-sm">
+                    <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> </span>
+                    <span class="text-nowrap"></span>
+                  </p>
+                </div> 
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+              <div class="card card-stats">
+                <!-- Card body -->
+                 <div class="card-body">
+                  <div class="row">
+                    <div class="col">
+                      <h5 class="card-title text-uppercase text-muted mb-0">total helth policy</h5>
+                      <span class="h2 font-weight-bold mb-0"><%= data.helthcount  %></span>
+                    </div>
+                    <div class="col-auto">
+                      <div class="icon icon-shape bg-gradient-orange text-white rounded-circle shadow">
+                        <i class="ni ni-chart-pie-35"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-3 mb-0 text-sm">
+                    <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> </span>
+                    <span class="text-nowrap"></span>
+                  </p>
+                </div> 
+              </div>
+            </div>
+          </div>
+          <div class="row">
+         
+            <div class="col-xl-3 col-md-6">
+              <div class="card card-stats">
+                <!-- Card body -->
+                 <div class="card-body">
+                  <div class="row">
+                    <div class="col">
+                      <h5 class="card-title text-uppercase text-muted mb-0">total car policy</h5>
+                      <span class="h2 font-weight-bold mb-0"><%= data.carcount  %></span>
+                    </div>
+                    <div class="col-auto">
+                      <div class="icon icon-shape bg-gradient-orange text-white rounded-circle shadow">
+                        <i class="ni ni-chart-pie-35"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-3 mb-0 text-sm">
+                    <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> </span>
+                    <span class="text-nowrap"></span>
+                  </p>
+                </div> 
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+              <div class="card card-stats">
+                <!-- Card body -->
+                 <div class="card-body">
+                  <div class="row">
+                    <div class="col">
+                      <h5 class="card-title text-uppercase text-muted mb-0">total life policy</h5>
+                      <span class="h2 font-weight-bold mb-0"><%= data.lifecount   %></span>
+                    </div>
+                    <div class="col-auto">
+                      <div class="icon icon-shape bg-gradient-orange text-white rounded-circle shadow">
+                        <i class="ni ni-chart-pie-35"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-3 mb-0 text-sm">
+                    <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> </span>
+                    <span class="text-nowrap"></span>
+                  </p>
+                </div> 
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6">
+              <div class="card card-stats">
+                <!-- Card body -->
+                 <div class="card-body">
+                  <div class="row">
+                    <div class="col">
+                      <h5 class="card-title text-uppercase text-muted mb-4">total policy</h5>
+                      <span class="h2 font-weight-bold mb-0"><%= data.total %></span>
+                    </div>
+                    <div class="col-auto">
+                      <div class="icon icon-shape bg-gradient-orange text-white rounded-circle shadow">
+                        <i class="ni ni-chart-pie-35"></i>
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-3 mb-0 text-sm">
+                    <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> </span>
+                    <span class="text-nowrap"></span>
+                  </p>
+                </div> 
+              </div>
+            </div>
+          
+        </div>
+       
+  </div>
+    <!-- Page content -->
+    <div class="container-fluid mt--16">
+      <div class="row">
+      <div class="col-xl-12">
+          <div class="card">
+            <div class="card-header bg-transparent">
+              <div class="row align-items-center">
+                <div class="col">
+                  <h6 class="text-uppercase text-muted ls-1 mb-1"></h6>
+                  <h5 class="h3 mb-0">Total policy</h5>
+                </div>
+              </div>
+            </div>
+            <div class="card-body">
+              <!-- Chart -->
+              <div class="chart">
+                <canvas id="myChart"></canvas>
+              </div>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      <div class="card">
+            <div class="card-header border-0">
+              <div class="row align-items-center">
+                <div class="col">
+                  <h3 class="mb-0">resent 10 user</h3>
+                </div>
+                <div class="col text-right">
+                  
+                </div>
+              </div>
+            </div>
+            <div class="table-responsive">
+              <!-- Projects table -->
+              
+              <table class="table align-items-center table-flush">
+                <% if(data.userdata2 != ''){ %>
+                <thead class="thead-light">
+                  <tr>
+                    <th scope="col">name</th>
+                    <th scope="col">email</th>
+                    <th scope="col">number</th>
+                    <th scope="col">gender</th>
+                    <th scope="col">age</th>
+                    <th scope="col">panno</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <% data.userdata2.forEach(function(row){%>
+                  <tr>
+                    <td scope="row"><%= row.name %></td>
+                    <td><%= row.email %></td>
+                    <td><%= row.number %></td>
+                    <td><%= row.gender %></td>
+                    <td><%= row.age %></td>
+                    <td scope="row"><%= row.panno %></td>
+                  </tr>
+                  <% }) %> 
+                </tbody><% } else{ %>
+                  <h1 class="text-center text-secondary">user not found</h1>
+                  <% } %>
+              </table>
+            </div>
+          </div>
+          <div class="card">
+          <div class="card-header border-0">
+            <div class="row align-items-center">
+              <div class="col">
+                <h3 class="mb-0">user quotes message</h3>
+              </div>
+              <div class="col text-right">
+              
+              </div>
+            </div>
+          </div>
+          <div class="table-responsive">
+            <!-- Projects table -->
+            
+             <table class="table align-items-center table-flush">
+              <% if(data.messagedata != ''){ %>
+              <thead class="thead-light">
+                <tr>
+                  <th scope="col">name</th>
+                  <th scope="col">email</th>
+                  <th scope="col">phoneno</th>
+                  <th scope="col">message</th>
+                
+                </tr>
+              </thead>
+              <tbody>
+                <% data.messagedata.forEach(function(row){%>
+                <tr>
+                  <td scope="row"><%= row.name %></td>
+                  <td><%= row.email %></td>
+                  <td><%= row.phoneno %></td>
+                  <td><%= row.message %></td>
+                  
+                  
+                </tr>
+                <% }) %> 
+              </tbody><% } else{ %>
+                <h1 class="text-center text-secondary">message not found</h1>
+                <% } %>
+            </table> 
+          </div>
+        </div>
+    </div>
+      
+ </div>
+  
+
+  <!-- Argon Scripts -->
+  <!-- Core -->
+<script>
+var  HelthData = [] ,  LifeData = [] , CarData = [] ,BikeData = []
+async function dummyChart () {
+  await   getDummyData(); 
+let ctx = document.getElementById('myChart').getContext('2d');
+let myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['helth' , 'life' , 'car' , 'bike'],
+        datasets: [{
+            label: 'total',
+            data:[HelthData,LifeData,CarData,BikeData],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+            ],
+            borderWidth: 1
+        }]
+    },
+
+    options: {
+    scales: {
+      yAxes: [{
+        ticks: {
+          beginAtZero: true,
+          min: 0,
+          max: 50,
+          stepSize: 10,
+        }
+      }]
+    }
+  }
+});
+}
+dummyChart()
+  async function getDummyData(){
+    const apiurl = "http://localhost:8080/dummyData"
+    const response = await fetch(apiurl)
+    const barChartData = await response.json()
+    const helthData = barChartData.hdata
+    const lifeData = barChartData.ldata
+    const carData = barChartData.cdata
+    const bikeData = barChartData.bdata
+    console.log('====================================');
+    console.log(helthData);
+    console.log(lifeData);
+    console.log(carData);
+    console.log(bikeData)
+    console.log('====================================');
+    HelthData = helthData
+    LifeData = lifeData
+    CarData = carData 
+    BikeData = bikeData
+  }
+
+
+  </script>
+</script>
+
+<script>
+var  HelthData = [] ,  LifeData = [] , CarData = [] ,BikeData = []
+async function dummyChart () {
+  await   getDummyData(); 
+let ctx = document.getElementById('myChart').getContext('2d');
+let myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['helth' , 'life' , 'car' , 'bike'],
+        datasets: [{
+            label: 'total',
+            data:[HelthData,LifeData,CarData,BikeData],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+            ],
+            borderWidth: 1
+        }]
+    },
+
+    options: {
+    scales: {
+      yAxes: [{
+        ticks: {
+          beginAtZero: true,
+          min: 0,
+          max: 50,
+          stepSize: 10,
+        }
+      }]
+    }
+  }
+
+});
+
+
+}
+dummyChart()
+  async function getDummyData(){
+    const apiurl = "http://localhost:8080/dummyData"
+    const response = await fetch(apiurl)
+    const barChartData = await response.json()
+    const helthData = barChartData.hdata
+    const lifeData = barChartData.ldata
+    const carData = barChartData.cdata
+    const bikeData = barChartData.bdata
+    console.log('====================================');
+    console.log(helthData);
+    console.log(lifeData);
+    console.log(carData);
+    console.log(bikeData)
+    console.log('====================================');
+    HelthData = helthData
+    LifeData = lifeData
+    CarData = carData 
+    BikeData = bikeData
+  }
+
+
+  </script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
+  <script src="/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/vendor/js-cookie/js.cookie.js"></script>
+  <script src="/assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js"></script>
+  <script src="/assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js"></script>
+  <!-- Optional JS -->
+  <script src="/assets/vendor/chart.js/dist/Chart.min.js"></script>
+  <script src="/assets/vendor/chart.js/dist/Chart.extension.js"></script>
+  <!-- Argon JS -->
+  <script src="/assets/js/argon.js?v=1.2.0"></script>
+
+  
+</body>
+
+
+</html>

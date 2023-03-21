@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "6222dc615460263effa2a36c"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451809187-1.webp",
+  "primumamount": "3656",
+  "timeduration": "6year",
+  "shortdiscription": "Reimbursement Within 7 Working Days For Non-Cashless ",
+  "cover": "30",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "216360",
+  "purchaseyear": "1980",
+  "__v": 0,
+  "name": "the new india"
+},{
+  "_id": {
+    "$oid": "6222dccd5460263effa2a36f"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451917058-2.webp",
+  "primumamount": "5056",
+  "timeduration": "20month",
+  "shortdiscription": "6-Month Repair Warranty Cashless Claims or 72-Hour Reimbursement Self-Video Claims 50% Advance Payment",
+  "cover": "65",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through Policybazaar App for surveying of damages.",
+  "idv": "217782",
+  "purchaseyear": "2018",
+  "__v": 0,
+  "name": "cholams"
+},{
+  "_id": {
+    "$oid": "6222dd2b5460263effa2a375"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646452011528-3.webp",
+  "primumamount": "3688",
+  "timeduration": "1year",
+  "shortdiscription": "Reimbursement Within 7 Working Days For Non-Cashless Self-Video Claim",
+  "cover": "60",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through Policybazaar App for surveying of damages.",
+  "idv": "185816",
+  "purchaseyear": "1970",
+  "__v": 0,
+  "name": "national"
+},{
+  "_id": {
+    "$oid": "6222de2d5460263effa2a37b"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646452269562-4.webp",
+  "primumamount": "3679",
+  "timeduration": "5",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "75",
+  "longdiscription": "Note: You will pay a compulsory deductible of ₹2,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "217782",
+  "purchaseyear": "1990",
+  "__v": 0,
+  "name": "cholams"
+},{
+  "_id": {
+    "$oid": "6222dea55460263effa2a37e"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646452389645-5.webp",
+  "primumamount": "3922",
+  "timeduration": "4year",
+  "shortdiscription": "Reimbursement Within 7 Working Days For Non-Cashless Self-Video Claim",
+  "cover": "38",
+  "longdiscription": "You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "209043",
+  "purchaseyear": "1990",
+  "__v": 0,
+  "name": "orienat"
+},{
+  "_id": {
+    "$oid": "6222e0046c31d514fc1927fc"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646452740143-6.webp",
+  "primumamount": "4000",
+  "timeduration": "5year",
+  "shortdiscription": "Reimbursement Within 7 Working Days For Non-Cashless",
+  "cover": "45",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "167234",
+  "purchaseyear": "2016",
+  "__v": 0,
+  "name": "kotak"
+},{
+  "_id": {
+    "$oid": "6222e0786c31d514fc1927ff"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646452856154-7.webp",
+  "primumamount": "5000",
+  "timeduration": "5year",
+  "shortdiscription": "Cashless Claims or 42-Hour Reimbursement 6-Month Repair Warranty Free Pick-up & Drop Self-Video Claims 50% Advance Payment",
+  "cover": "50",
+  "longdiscription": "Insurer pays 100% of the claim amount if there are only repairs and none of the car parts are replaced (except insurer pays only 50% of the cost of painting materials)",
+  "idv": "199622",
+  "purchaseyear": "2020",
+  "__v": 0,
+  "name": "liberty"
+},{
+  "_id": {
+    "$oid": "6222e0f06c31d514fc192802"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646452976973-9.webp",
+  "primumamount": "4082",
+  "timeduration": "5year",
+  "shortdiscription": "Cashless Claims or 24-Hour Reimbursement",
+  "cover": "65",
+  "longdiscription": "Do you want Royal Sundaram to pay 100% of the claim amount in case of replaced parts? Add Zero Depreciation Cover.",
+  "idv": "214527",
+  "purchaseyear": "2016",
+  "__v": 0,
+  "name": "royal sundaram"
+},{
+  "_id": {
+    "$oid": "6222e1766c31d514fc192805"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646453110134-8.webp",
+  "primumamount": "4019",
+  "timeduration": "6year",
+  "shortdiscription": "Free Pick-up & Drop",
+  "cover": "60",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "199616",
+  "purchaseyear": "2010",
+  "__v": 0,
+  "name": "navi"
+},{
+  "_id": {
+    "$oid": "6222e1b56c31d514fc192808"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646453173933-10.webp",
+  "primumamount": "4128",
+  "timeduration": "6year",
+  "shortdiscription": "6-Month Repair Warranty Cashless Claims or 72-Hour Reimbursement Self-Video Claims 50% Advance Payment",
+  "cover": "65",
+  "longdiscription": "Note: You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "216480",
+  "purchaseyear": "2010",
+  "__v": 0,
+  "name": "shriram"
+},{
+  "_id": {
+    "$oid": "622333c21bab00988f754acf"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474178593-11.webp",
+  "primumamount": "4160",
+  "timeduration": "5year",
+  "shortdiscription": "Cashless Claims or 24-Hour Reimbursement Spot Claims Upto Rs. 2Lakhs Zero Paper Claims",
+  "cover": "56",
+  "longdiscription": "Insurer offers zero paper claims: every document or signature can be uploaded online.",
+  "idv": "234716",
+  "purchaseyear": "2010",
+  "__v": 0,
+  "name": "magama"
+},{
+  "_id": {
+    "$oid": "622334011bab00988f754ad2"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474241978-12.webp",
+  "primumamount": "4268",
+  "timeduration": "3year",
+  "shortdiscription": "Reimbursement Within 7 Working Days For Non-Cashless",
+  "cover": "60%",
+  "longdiscription": "You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "208925",
+  "purchaseyear": "2010",
+  "__v": 0,
+  "name": "kotak"
+},{
+  "_id": {
+    "$oid": "6223345a1bab00988f754ad5"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474330780-13.webp",
+  "primumamount": "4280",
+  "timeduration": "6year",
+  "shortdiscription": "Cashless Claims or 24-Hour Reimbursement",
+  "cover": "65",
+  "longdiscription": "Note: You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "223200",
+  "purchaseyear": "2015",
+  "__v": 0,
+  "name": "digit"
+},{
+  "_id": {
+    "$oid": "622334be1bab00988f754ad8"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474430667-14.webp",
+  "primumamount": "4358",
+  "timeduration": "5year",
+  "shortdiscription": "Cashless Claims or 48-Hour Reimbursement Spot Claims Upto Rs. 20,000 6-Month Repair Warranty Live-Video Claims",
+  "cover": "63",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "226238",
+  "purchaseyear": "2020",
+  "__v": 0,
+  "name": "rahejaQBE"
+},{
+  "_id": {
+    "$oid": "622335231bab00988f754adb"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474531086-15.webp",
+  "primumamount": "4467",
+  "timeduration": "6year",
+  "shortdiscription": "zero dep:2344",
+  "cover": "45",
+  "longdiscription": "You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "223200",
+  "purchaseyear": "2013",
+  "__v": 0,
+  "name": "digit"
+},{
+  "_id": {
+    "$oid": "622335991bab00988f754ade"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474649163-16.webp",
+  "primumamount": "4702",
+  "timeduration": "5year",
+  "shortdiscription": "self video claims",
+  "cover": "50",
+  "longdiscription": "Note: You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "256639",
+  "purchaseyear": "2015",
+  "__v": 0,
+  "name": "relaince"
+},{
+  "_id": {
+    "$oid": "622335fb1bab00988f754ae9"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474747709-17.webp",
+  "primumamount": "4726",
+  "timeduration": "4year",
+  "shortdiscription": "Cashless Claims or 24-Hour Reimbursement",
+  "cover": "60",
+  "longdiscription": "Note: You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "256639",
+  "purchaseyear": "2016",
+  "__v": 0,
+  "name": "universal"
+},{
+  "_id": {
+    "$oid": "622336511bab00988f754aec"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474833907-18.webp",
+  "primumamount": "4782",
+  "timeduration": "6year",
+  "shortdiscription": "\tSpot Claims Upto Rs. 30,000 6-Month Repair Warrant Free Pick-up & Drop\t Zero Paper Claims\t",
+  "cover": "50",
+  "longdiscription": "Note: You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "231321",
+  "purchaseyear": "2016",
+  "__v": 0,
+  "name": "bajaj"
+},{
+  "_id": {
+    "$oid": "622336a01bab00988f754aef"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474912883-19.webp",
+  "primumamount": "5358",
+  "timeduration": "6year",
+  "shortdiscription": "Cashless Claims or 24-Hour Reimbursement",
+  "cover": "55",
+  "longdiscription": "Insurer offers spot claims upto Rs. 50,000: upload picture/video of the damage and go for immediate claim settlement.",
+  "idv": "255000",
+  "purchaseyear": "2021",
+  "__v": 0,
+  "name": "iffco"
+},{
+  "_id": {
+    "$oid": "622336f21bab00988f754af2"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646474994331-20.webp",
+  "primumamount": "3922",
+  "timeduration": "5year",
+  "shortdiscription": "commercial car insurance",
+  "cover": "50",
+  "longdiscription": "Note: You will pay a compulsory deductible of ₹1,000 per claim, which is a claims processing fee mandated by the IRDAI. This is same for all insurers.",
+  "idv": "209043",
+  "purchaseyear": "1990",
+  "__v": 0,
+  "name": "shriram"
+}]

@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
+  <meta name="author" content="Creative Tim">
+  <title>insurance managment system</title>
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/img/brand/favicon.png" type="image/png">
+  <!-- Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
+  <!-- Icons -->
+  <link rel="stylesheet" href="/assets/vendor/nucleo/css/nucleo.css" type="text/css">
+  <link rel="stylesheet" href="/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css" type="text/css">
+  <!-- Argon CSS -->
+  <link rel="stylesheet" href="/assets/css/argon.css?v=1.2.0" type="text/css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+  <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+  <link rel="stylesheet" href="//cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
+  
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+
+<body>
+  <!-- Sidenav -->
+  <%- include('sidebar'); -%>
+  <!-- Main content -->
+  <div class="main-content" id="panel">
+    <!-- Topnav -->
+    <%- include('top'); -%>
+    <!-- Header -->
+    <!-- Header -->
+    <div class="header  pb-6">
+      <div class="container-fluid">
+        <div class="header-body">
+          <div class="row align-items-center py-4">
+            <div class="col-lg-6 col-7">
+              <h6 class="h2 text-white d-inline-block mb-0">USER Tables</h6>
+            </div>
+            <div class="col-lg-6 col-5 text-right">
+              <a href="/admin/insert" class="btn btn-big btn-neutral text-black-50" style="background-color: aliceblue;">New user</a>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Page content -->
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="card">
+            <!-- Card header -->
+            <div class="table-responsive">
+            <!-- Light table -->
+            <table id="example" class="table table-striped" style="width:100%">
+              <% if(records != ''){ %>
+              <thead>
+                  <tr>
+                      <th>Name</th>
+                      <th>email</th>
+                      <th>number</th>
+                      <th>gender</th>
+                      <th>age</th>
+                      <th>panno</th>
+                      <th>action</th>
+                    </tr>
+              </thead>
+            
+              <tbody class="list">
+                <% records.forEach(function(row){%>
+              <tr>
+                <td><%= row.name %></td>
+                <td><%= row.email %></td>
+                <td><%= row.number %></td>
+               <td><%= row.gender %></td> 
+                 <td><%= row.age %></td> 
+                <td><%= row.panno %></td>
+                <td><a class="btn btn-primary btn-xs" href="/admin/edit/<%= row._id %> "><i class="fa fa-edit"></i></a> 
+                <a class="btn btn-danger btn-xs" href="/admin/delete/<%= row._id %>"><i class="fa fa-trash"></i></a>
+                <a class="btn btn-secondary btn-xs" href="/admin/viewprofile/<%= row._id %>"><i class="fas fa-eye"></i></a></td>
+                
+                              
+                </tr>
+                <% }) %> 
+             
+              </tbody><% } else{ %>
+                <h1 class="text-center text-secondary">policy not found</h1>
+                <% } %>
+            </table>
+            <!-- Card footer -->
+             
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Argon Scripts -->
+  <!-- Core -->
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/jquery.dataTables.min.js" integrity="sha512-BkpSL20WETFylMrcirBahHfSnY++H2O1W+UnEEO4yNIl+jI2+zowyoGJpbtk6bx97fBXf++WJHSSK2MV4ghPcg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+
+
+  <script>
+      $(document).ready(function() {
+  $('#example').DataTable();
+} );
+  </script>
+
+
+  <script src="/vendors/js/vendor.bundle.base.js"></script>
+
+  <script src="/js/off-canvas.js"></script>
+  <script src="/js/misc.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"
+    integrity="sha512-2rNj2KJ+D8s1ceNasTIex6z4HWyOnEYLVC3FigGOmyQCZc2eBXKgOxQmo3oKLHyfcj53uz4QMsRCWNbLd32Q1g=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+    integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap4.min.js"></script>
+
+ 
+</body>
+
+</html>

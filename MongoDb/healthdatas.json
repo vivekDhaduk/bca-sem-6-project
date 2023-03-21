@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "62233a3c1bab00988f754b03"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646475836115-1.webp",
+  "primumamount": "20244",
+  "timeduration": "10year",
+  "shortdiscription": "max saver",
+  "cover": "96",
+  "longdiscription": "",
+  "age": "60",
+  "__v": 0,
+  "name": "niva"
+},{
+  "_id": {
+    "$oid": "62233a7f1bab00988f754b06"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646475903108-2.webp",
+  "primumamount": "16142",
+  "timeduration": "8year",
+  "shortdiscription": "health optima",
+  "cover": "90",
+  "longdiscription": "",
+  "age": "50",
+  "__v": 0,
+  "name": "star"
+},{
+  "_id": {
+    "$oid": "62233ad11bab00988f754b09"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646475985945-2.webp",
+  "primumamount": "13912",
+  "timeduration": "8year",
+  "shortdiscription": "young star silver plan",
+  "cover": "80",
+  "longdiscription": "",
+  "age": "35",
+  "__v": 0,
+  "name": "star"
+},{
+  "_id": {
+    "$oid": "62233b451bab00988f754b0c"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476101652-2.webp",
+  "primumamount": "15617",
+  "timeduration": "14year",
+  "shortdiscription": "young star gold plan",
+  "cover": "90",
+  "longdiscription": "",
+  "age": "45",
+  "__v": 0,
+  "name": "star"
+},{
+  "_id": {
+    "$oid": "62233b791bab00988f754b0f"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476153829-2.webp",
+  "primumamount": "16921",
+  "timeduration": "15year",
+  "shortdiscription": "star comprehensive\t",
+  "cover": "90",
+  "longdiscription": "",
+  "age": "55",
+  "__v": 0,
+  "name": "star"
+},{
+  "_id": {
+    "$oid": "62233bb61bab00988f754b12"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476214341-2.webp",
+  "primumamount": "21997",
+  "timeduration": "20year",
+  "shortdiscription": "Star Comprehensive with PED Buyback Rider\t\t\t",
+  "cover": "90",
+  "longdiscription": "",
+  "age": "80",
+  "__v": 0,
+  "name": "star"
+},{
+  "_id": {
+    "$oid": "62233bf41bab00988f754b15"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476276850-3.webp",
+  "primumamount": "16142",
+  "timeduration": "12year",
+  "shortdiscription": "Health Guard Family Floater",
+  "cover": "80",
+  "longdiscription": "",
+  "age": "52",
+  "__v": 0,
+  "name": "bajaj"
+},{
+  "_id": {
+    "$oid": "62233c421bab00988f754b18"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476354052-4.webp",
+  "primumamount": "15273",
+  "timeduration": "10year",
+  "shortdiscription": "Health Infinity (More Time)\t",
+  "cover": "99",
+  "longdiscription": "",
+  "age": "42",
+  "__v": 0,
+  "name": "relaince"
+},{
+  "_id": {
+    "$oid": "62233cb51bab00988f754b1e"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476469102-5.webp",
+  "primumamount": "15276",
+  "timeduration": "10year",
+  "shortdiscription": "Lifeline Supreme",
+  "cover": "89",
+  "longdiscription": "",
+  "age": "43",
+  "__v": 0,
+  "name": "royal sundaram"
+},{
+  "_id": {
+    "$oid": "62233d371bab00988f754b24"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476599902-6.webp",
+  "primumamount": "12440",
+  "timeduration": "6year",
+  "shortdiscription": "OneHealth Support\t",
+  "cover": "95",
+  "longdiscription": "",
+  "age": "40",
+  "__v": 0,
+  "name": "magama"
+},{
+  "_id": {
+    "$oid": "62233d7d1bab00988f754b27"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476669882-6.webp",
+  "primumamount": "15942",
+  "timeduration": "8year",
+  "shortdiscription": "one health suppoet plus",
+  "cover": "95",
+  "longdiscription": "",
+  "age": "45",
+  "__v": 0,
+  "name": "magama"
+},{
+  "_id": {
+    "$oid": "62233dc71bab00988f754b2a"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476743274-6.webp",
+  "primumamount": "20931",
+  "timeduration": "9year",
+  "shortdiscription": "onehealth shield\t",
+  "cover": "95",
+  "longdiscription": "",
+  "age": "65",
+  "__v": 0,
+  "name": "magama"
+},{
+  "_id": {
+    "$oid": "62233e021bab00988f754b2d"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646476802987-7.webp",
+  "primumamount": "10603",
+  "timeduration": "14year",
+  "shortdiscription": "Flexi Health",
+  "cover": "99",
+  "longdiscription": "",
+  "age": "30",
+  "__v": 0,
+  "name": "cholams"
+},{
+  "_id": {
+    "$oid": "62233edb1bab00988f754b30"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477019106-9.webp",
+  "primumamount": "13172",
+  "timeduration": "7year",
+  "shortdiscription": "Health QuBE Comprehensive",
+  "cover": "94",
+  "longdiscription": "",
+  "age": "35",
+  "__v": 0,
+  "name": "rahejaQBE"
+},{
+  "_id": {
+    "$oid": "62233f291bab00988f754b33"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477097210-9.webp",
+  "primumamount": "10274",
+  "timeduration": "10year",
+  "shortdiscription": "Health QuBE basic",
+  "cover": "60",
+  "longdiscription": "",
+  "age": "15",
+  "__v": 0,
+  "name": "rahejaQBE"
+},{
+  "_id": {
+    "$oid": "62233f5e1bab00988f754b36"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477150717-9.webp",
+  "primumamount": "16215",
+  "timeduration": "10year",
+  "shortdiscription": "1cr supersaver",
+  "cover": "65",
+  "longdiscription": "",
+  "age": "55",
+  "__v": 0,
+  "name": "rahejaQBE"
+},{
+  "_id": {
+    "$oid": "62233f8f1bab00988f754b39"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477199838-9.webp",
+  "primumamount": "11331",
+  "timeduration": "6year",
+  "shortdiscription": "health quBE supersaver",
+  "cover": "98",
+  "longdiscription": "",
+  "age": "16",
+  "__v": 0,
+  "name": "rahejaQBE"
+},{
+  "_id": {
+    "$oid": "62233fbf1bab00988f754b3c"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477247825-10.gif",
+  "primumamount": "16287",
+  "timeduration": "9year",
+  "shortdiscription": "care with super ncb",
+  "cover": "90",
+  "longdiscription": "",
+  "age": "55",
+  "__v": 0,
+  "name": "care"
+},{
+  "_id": {
+    "$oid": "62233ff61bab00988f754b3f"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477302035-11.gif",
+  "primumamount": "17464",
+  "timeduration": "10year",
+  "shortdiscription": "comprehensive plan",
+  "cover": "65",
+  "longdiscription": "",
+  "age": "55",
+  "__v": 0,
+  "name": "star"
+},{
+  "_id": {
+    "$oid": "6223403b1bab00988f754b42"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477371959-12.gif",
+  "primumamount": "18524",
+  "timeduration": "10year",
+  "shortdiscription": "health reassure",
+  "cover": "99",
+  "longdiscription": "",
+  "age": "58",
+  "__v": 0,
+  "name": "niva"
+},{
+  "_id": {
+    "$oid": "6223408a1bab00988f754b45"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477450923-12.gif",
+  "primumamount": "15973",
+  "timeduration": "10year",
+  "shortdiscription": "activ health platinum enhance",
+  "cover": "65",
+  "longdiscription": "",
+  "age": "45",
+  "__v": 0,
+  "name": "niva"
+},{
+  "_id": {
+    "$oid": "622340c21bab00988f754b48"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477506691-2.webp",
+  "primumamount": "13830",
+  "timeduration": "10year",
+  "shortdiscription": "arogya sanjeevani",
+  "cover": "90",
+  "longdiscription": "",
+  "age": "35",
+  "__v": 0,
+  "name": "star"
+},{
+  "_id": {
+    "$oid": "622340ef1bab00988f754b4b"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646477551164-4.webp",
+  "primumamount": "18017",
+  "timeduration": "10year",
+  "shortdiscription": "anipalcigna prohealth plus policy",
+  "cover": "90",
+  "longdiscription": "",
+  "age": "58",
+  "__v": 0,
+  "name": "relaince"
+}]

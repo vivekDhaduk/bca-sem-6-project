@@ -1,0 +1,274 @@
+[{
+  "_id": {
+    "$oid": "6223881dd7170a03059be095"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646495773107-1.webp",
+  "primumamount": "8592",
+  "timeduration": "20year",
+  "shortdiscription": "cover against 37critical illness\t\t",
+  "cover": "55",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "480000",
+  "__v": 0,
+  "name": "kotak"
+},{
+  "_id": {
+    "$oid": "6223885dd7170a03059be098"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646495837371-2.webp",
+  "primumamount": "6672",
+  "timeduration": "5 year",
+  "shortdiscription": "option to get all your premium back 176\t\t\t",
+  "cover": "50",
+  "longdiscription": "option to skip your premiums 44\t\t",
+  "annualincome": "350000",
+  "__v": 0,
+  "name": "indiafirst"
+},{
+  "_id": {
+    "$oid": "622388bbd7170a03059be09b"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646495931987-3.webp",
+  "primumamount": "11472",
+  "timeduration": "14year",
+  "shortdiscription": "death due to any cause(e.gnatural,calamities,fire,accidental,illnesses,covid-19 etc)\t\t\t\t",
+  "cover": "70",
+  "longdiscription": "What’s not Covered Suicide during first year of the policy",
+  "annualincome": "740000",
+  "__v": 0,
+  "name": "exidlife"
+},{
+  "_id": {
+    "$oid": "62238926d7170a03059be09e"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496038869-4.jpg",
+  "primumamount": "7333",
+  "timeduration": "49year",
+  "shortdiscription": "Smart Secure Plus - Life Cover\t\t",
+  "cover": "99.35",
+  "longdiscription": "option to skip your premiums 44\t\t",
+  "annualincome": "380000",
+  "__v": 0,
+  "name": "maxlife"
+},{
+  "_id": {
+    "$oid": "62238993d7170a03059be0a1"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496147187-5.png",
+  "primumamount": "8518",
+  "timeduration": "49year",
+  "shortdiscription": "Smart Protect Goal - Life Cover\t\t",
+  "cover": "98.02",
+  "longdiscription": "\tWhat’s not Covered Suicide during first year of the policy\t\t",
+  "annualincome": "470000",
+  "__v": 0,
+  "name": "bajaj"
+},{
+  "_id": {
+    "$oid": "622389e8d7170a03059be0a4"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496232250-6.jpg",
+  "primumamount": "9643",
+  "timeduration": "49year",
+  "shortdiscription": "iSelect Star - Life\t",
+  "cover": "98.12",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "590000",
+  "__v": 0,
+  "name": "canara"
+},{
+  "_id": {
+    "$oid": "62238adad7170a03059be0b7"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496474817-7.svg",
+  "primumamount": "13465",
+  "timeduration": "49year",
+  "shortdiscription": "iProtect Smart - Life\t",
+  "cover": "98.03",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "90000",
+  "__v": 0,
+  "name": "icici"
+},{
+  "_id": {
+    "$oid": "62238b1dd7170a03059be0ba"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496541799-8.svg",
+  "primumamount": "10380",
+  "timeduration": "49year",
+  "shortdiscription": "Click 2 Protect Life - Life protect",
+  "cover": "98.01",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "600000",
+  "__v": 0,
+  "name": "hdfc"
+},{
+  "_id": {
+    "$oid": "62238b62d7170a03059be0bd"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496610509-9.svg",
+  "primumamount": "18408",
+  "timeduration": "35year",
+  "shortdiscription": "Amulya Jeevan II\t",
+  "cover": "98.04",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "1000000",
+  "__v": 0,
+  "name": "lic"
+},{
+  "_id": {
+    "$oid": "62238bb3d7170a03059be0c0"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496691498-4.jpg",
+  "primumamount": "8496",
+  "timeduration": "36year",
+  "shortdiscription": "smart secure plus -life cover\t\t",
+  "cover": "99.35",
+  "longdiscription": "option to skip your premiums 44\t\t",
+  "annualincome": "450000",
+  "__v": 0,
+  "name": "maxlife"
+},{
+  "_id": {
+    "$oid": "62238c09d7170a03059be0c3"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496777710-7.svg",
+  "primumamount": "11165",
+  "timeduration": "36year",
+  "shortdiscription": "iprotect smart lumpsum plan\t\t",
+  "cover": "97.90",
+  "longdiscription": "What’s not Covered Suicide during first year of the policy",
+  "annualincome": "730000",
+  "__v": 0,
+  "name": "icici"
+},{
+  "_id": {
+    "$oid": "62238c48d7170a03059be0c6"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496840198-11.gif",
+  "primumamount": "8496",
+  "timeduration": "36year",
+  "shortdiscription": "pnb metlife mera term plan plus-life\t\t\t",
+  "cover": "97.16",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "440000",
+  "__v": 0,
+  "name": "pnb"
+},{
+  "_id": {
+    "$oid": "62238cded7170a03059be0c9"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646496990479-12.gif",
+  "primumamount": "11768",
+  "timeduration": "36year",
+  "shortdiscription": "Click 2 Protect Life - Life protect\t\t",
+  "cover": "95.24",
+  "longdiscription": "What’s not Covered Suicide during first year of the policy",
+  "annualincome": "750000",
+  "__v": 0,
+  "name": "edelweiss"
+},{
+  "_id": {
+    "$oid": "62238d30d7170a03059be0cc"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497072216-13.gif",
+  "primumamount": "9086",
+  "timeduration": "36year",
+  "shortdiscription": "e-term insurance plan life -immediate payout\t\t\t\t",
+  "cover": "98.5",
+  "longdiscription": "option to skip your premiums 44\t\t\t",
+  "annualincome": "560000",
+  "__v": 0,
+  "name": "kotak"
+},{
+  "_id": {
+    "$oid": "62238d77d7170a03059be0cf"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497143732-14.jpg",
+  "primumamount": "9676",
+  "timeduration": "36year",
+  "shortdiscription": "Click 2 Protect Life - Life protect\t\t",
+  "cover": "99.10",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "570000",
+  "__v": 0,
+  "name": "tata"
+},{
+  "_id": {
+    "$oid": "62238db3d7170a03059be0d2"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497203301-15.gif",
+  "primumamount": "8405",
+  "timeduration": "37year",
+  "shortdiscription": "smart secure plus -life cover\t\t",
+  "cover": "99.35",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "440000",
+  "__v": 0,
+  "name": "maxlife"
+},{
+  "_id": {
+    "$oid": "62238e4dd7170a03059be0da"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497357531-17.gif",
+  "primumamount": "8260",
+  "timeduration": "36year",
+  "shortdiscription": "pnb metlife mera term plan plus-life\t\t\t",
+  "cover": "97.16",
+  "longdiscription": "the claim value that is less than 50 lakhs\t\t\t",
+  "annualincome": "430000",
+  "__v": 0,
+  "name": "pnb"
+},{
+  "_id": {
+    "$oid": "62238ed1d7170a03059be0e0"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497489114-7.svg",
+  "primumamount": "10897",
+  "timeduration": "37year",
+  "shortdiscription": "iprotect smart lumpsum plan\t\t",
+  "cover": "97.90",
+  "longdiscription": "option to skip your premiums 44\t\t",
+  "annualincome": "660000",
+  "__v": 0,
+  "name": "icici"
+},{
+  "_id": {
+    "$oid": "62238f1cd7170a03059be0e3"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497564435-18.gif",
+  "primumamount": "11480",
+  "timeduration": "37year",
+  "shortdiscription": "Click 2 Protect Life - Life protect\t\t",
+  "cover": "99.07",
+  "longdiscription": "option to skip your premiums 44\t\t",
+  "annualincome": "700000",
+  "__v": 0,
+  "name": "hdfc"
+},{
+  "_id": {
+    "$oid": "62238f53d7170a03059be0e6"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497619670-19.gif",
+  "primumamount": "7247",
+  "timeduration": "37year",
+  "shortdiscription": "zindagi plus\t",
+  "cover": "95.24",
+  "longdiscription": "What’s not Covered Suicide during first year of the policy",
+  "annualincome": "370000",
+  "__v": 0,
+  "name": "edelweiss"
+},{
+  "_id": {
+    "$oid": "62238f94d7170a03059be0e9"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646497684461-20.gif",
+  "primumamount": "8850",
+  "timeduration": "37year",
+  "shortdiscription": "e-term insurance plan life -immediate payout",
+  "cover": "98.50",
+  "longdiscription": "option to skip your premiums 44\t\t",
+  "annualincome": "450000",
+  "__v": 0,
+  "name": "kotak"
+}]

@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "622216c5c47672f0beb26acd"
+  },
+  "CarNumber": "GJ05JQ6959",
+  "City": "SURAT",
+  "Company": "Hyundai",
+  "Model": "i10",
+  "FuelType": "patrol",
+  "CarRegisterYear": "2017",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622850c642b5f7c7f9eb5ed7"
+  },
+  "CarNumber": "GJ05JQ6959",
+  "City": "kolkata",
+  "Company": "HONDA",
+  "Model": "CB sine 125CC",
+  "FuelType": "patrol",
+  "CarRegisterYear": "2019",
+  "date": {
+    "$date": {
+      "$numberLong": "1646809286955"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623dac774ec38d33bfecdbcf"
+  },
+  "CarNumber": "GJ05RB6899",
+  "City": "surat",
+  "Company": "Hyundai",
+  "Model": "i10",
+  "FuelType": "patrol",
+  "CarRegisterYear": "2017",
+  "date": {
+    "$date": {
+      "$numberLong": "1648209015622"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624ae49f235aa195b37d43e1"
+  },
+  "CarNumber": "GJ05JQ6959",
+  "City": "SURAT",
+  "Company": "Hyundai",
+  "Model": "i10",
+  "FuelType": "patrol",
+  "CarRegisterYear": "2017",
+  "date": {
+    "$date": {
+      "$numberLong": "1649075359364"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624ae588235aa195b37d4411"
+  },
+  "CarNumber": "GJ05JQ6959",
+  "City": "SURAT",
+  "Company": "HONDA",
+  "Model": "i10",
+  "FuelType": "CNG",
+  "CarRegisterYear": "2017",
+  "date": {
+    "$date": {
+      "$numberLong": "1649075592587"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624d35367150acbdf23f4919"
+  },
+  "CarNumber": "GJ05JQ6959",
+  "City": "SURAT",
+  "Company": "Hyundai",
+  "Model": "i10",
+  "FuelType": "patrol",
+  "CarRegisterYear": "2017",
+  "date": {
+    "$date": {
+      "$numberLong": "1649227062349"
+    }
+  },
+  "__v": 0
+}]

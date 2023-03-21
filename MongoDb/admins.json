@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6221e72c1f517078be8c151e"
+  },
+  "password": "123",
+  "username": "priyansi",
+  "__v": 11,
+  "tokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjIxZTcyYzFmNTE3MDc4YmU4YzE1MWUiLCJpYXQiOjE2NDk4MjU0Mzd9.Dizl3YN_R5xbsiwepZ5jSZAFQgtEEeDbgVMkCuXLDd0",
+      "_id": {
+        "$oid": "6256569dd2a672ef90d67cc0"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "6222d59e5460263effa2a30b"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450078857-1.webp",
+  "primumamount": "788",
+  "timeduration": "1year",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "96",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through Policybazaar App for surveying of damages.",
+  "idv": "21577",
+  "purchaseyear": "2018",
+  "__v": 0,
+  "name": "digit"
+},{
+  "_id": {
+    "$oid": "6222d6065460263effa2a311"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450182434-2.webp",
+  "primumamount": "814",
+  "timeduration": "2year",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "60",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "24806",
+  "purchaseyear": "2010",
+  "__v": 0,
+  "name": "edelweiss"
+},{
+  "_id": {
+    "$oid": "6222d6855460263effa2a314"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450309763-3.webp",
+  "primumamount": "825",
+  "timeduration": "6month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "40",
+  "longdiscription": "Insurer offers self-video claims: self-upload video of car through Policybazaar App for quick survey of damages.",
+  "idv": "21820",
+  "purchaseyear": "2011",
+  "__v": 0,
+  "name": "the new india"
+},{
+  "_id": {
+    "$oid": "6222d6c45460263effa2a317"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450372525-4.webp",
+  "primumamount": "828",
+  "timeduration": "10month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "55",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through Policybazaar App for surveying of damages.",
+  "idv": "24849",
+  "purchaseyear": "2006",
+  "__v": 0,
+  "name": "navi"
+},{
+  "_id": {
+    "$oid": "6222d7415460263effa2a31d"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450497380-5.webp",
+  "primumamount": "829",
+  "timeduration": "1year",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "60",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through Policybazaar App for surveying of damages.",
+  "idv": "230498",
+  "purchaseyear": "2016",
+  "__v": 0,
+  "name": "united india"
+},{
+  "_id": {
+    "$oid": "6222d7945460263effa2a320"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450580815-6.webp",
+  "primumamount": "2000",
+  "timeduration": "2year",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "99",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "23162",
+  "purchaseyear": "1980",
+  "__v": 0,
+  "name": "cholams"
+},{
+  "_id": {
+    "$oid": "6222d7ec5460263effa2a323"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450668810-7.webp",
+  "primumamount": "738",
+  "timeduration": "8month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "80",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "25650",
+  "purchaseyear": "2015",
+  "__v": 0,
+  "name": "magama"
+},{
+  "_id": {
+    "$oid": "6222d82f5460263effa2a326"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646450735862-8.webp",
+  "primumamount": "1800",
+  "timeduration": "15month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "85",
+  "longdiscription": "Insurer offers self-video claims: self-upload video of car through Policybazaar App for quick survey of damages.",
+  "idv": "23049",
+  "purchaseyear": "1990",
+  "__v": 0,
+  "name": "orienat"
+},{
+  "_id": {
+    "$oid": "6222d93e5460263effa2a342"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451006343-9.webp",
+  "primumamount": "661",
+  "timeduration": "3year",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "45",
+  "longdiscription": "Insurer offers self-video claims: self-upload video of car through Policybazaar App for quick survey of damages.",
+  "idv": "32369",
+  "purchaseyear": "2021",
+  "__v": 0,
+  "name": "kotak"
+},{
+  "_id": {
+    "$oid": "6222d9a15460263effa2a348"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451105284-10.webp",
+  "primumamount": "896",
+  "timeduration": "14month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "65",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "2,09,043",
+  "purchaseyear": "2015",
+  "__v": 0,
+  "name": "bajaj"
+},{
+  "_id": {
+    "$oid": "6222d9f25460263effa2a34b"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451186367-11.webp",
+  "primumamount": "937",
+  "timeduration": "2year",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "90",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "17542",
+  "purchaseyear": "2003",
+  "__v": 0,
+  "name": "future"
+},{
+  "_id": {
+    "$oid": "6222da4a5460263effa2a34e"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451274797-12.webp",
+  "primumamount": "948",
+  "timeduration": "18month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "95",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "25968",
+  "purchaseyear": "2003",
+  "__v": 0,
+  "name": "universal"
+},{
+  "_id": {
+    "$oid": "6222da855460263effa2a351"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451333949-13.webp",
+  "primumamount": "1006",
+  "timeduration": "20month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "98",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through Policybazaar App for surveying of damages.",
+  "idv": "30312",
+  "purchaseyear": "1987",
+  "__v": 0,
+  "name": "sbi"
+},{
+  "_id": {
+    "$oid": "6222dadc5460263effa2a354"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451420651-14.webp",
+  "primumamount": "1090",
+  "timeduration": "20month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "95",
+  "longdiscription": "Insurer offers self-video claims: self-upload video of car through Policybazaar App for quick survey of damages.",
+  "idv": "28976",
+  "purchaseyear": "1984",
+  "__v": 0,
+  "name": "liberty"
+},{
+  "_id": {
+    "$oid": "6222db1b5460263effa2a357"
+  },
+  "logo": "http://127.0.0.1:8080/uploads/logo-1646451483519-15.webp",
+  "primumamount": "1021",
+  "timeduration": "21month",
+  "shortdiscription": "Covers damages to your vehicle and third-party",
+  "cover": "75",
+  "longdiscription": "Insurer offers self-video claims: quick and easy inspection through live streaming of video for surveying of damages.",
+  "idv": "32083",
+  "purchaseyear": "1987",
+  "__v": 0,
+  "name": "relaince"
+}]

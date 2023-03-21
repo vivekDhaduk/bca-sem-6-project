@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "624ae9a9235aa195b37d441d"
+  },
+  "name": "vivek dhaduk",
+  "email": "dhaduk1000vivek@gmail.com",
+  "phoneno": "9510542252",
+  "message": "welcome to auxillium insura",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624aec01235aa195b37d4429"
+  },
+  "name": "parnay",
+  "email": "parnay@gmail.com",
+  "phoneno": "6354653533",
+  "message": "thnks for your support",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256571ead4b4c1c8a6c47b8"
+  },
+  "name": "vivek dhaduk",
+  "email": "caspiry@gmail.com",
+  "phoneno": "9510542252",
+  "message": "asdfghjk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62565a7dad4b4c1c8a6c47d4"
+  },
+  "name": "vivek dhaduk",
+  "email": "ishadesai36934@gmail.com",
+  "phoneno": "9510542252",
+  "message": "hello",
+  "__v": 0
+}]
